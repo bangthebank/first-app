@@ -1,0 +1,17 @@
+# Ignore bundle config
+/.bundle
+
+# Ignore the default SQLite database
+/db/*.sqlite3
+
+# Ignore all logfiles ad tempfiles
+/log/*.log
+/tmp
+
+# Ignore other unneed files
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.idea
